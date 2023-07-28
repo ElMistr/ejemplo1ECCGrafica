@@ -1,0 +1,2 @@
+Persona{nombreP=asdfasdf, telefonoP=23452345, correoP=wer45}Cliente{codigoCliente=2452345, edadCliente=66}
+Persona{nombreP=trtr, telefonoP=76543, correoP=gsadf44}Cliente{codigoCliente=88888, edadCliente=40}
